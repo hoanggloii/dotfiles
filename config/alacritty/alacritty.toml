@@ -1,12 +1,12 @@
 [shell]
-program='/usr/bin/fish'
+program='/usr/bin/zsh'
 [window]
 opacity = 0.92
 [window.padding]
-x = 10
+x = 5
 y = 10
 [font]
-size = 9
+size = 13
 [font.normal]
 family='FantasqueSansMNerdFont'
 style='Regular'
