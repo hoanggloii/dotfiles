@@ -1,0 +1,19 @@
+[shell]
+program='fish'
+[window]
+opacity = 0.92
+[window.padding]
+x = 5
+y = 5
+[font]
+size = 14
+[font.normal]
+family='FantasqueSansMNerdFont'
+style='Regular'
+[font.bold]
+family='FantasqueSansMNerdFont'
+style='Bold'
+[font.italic]
+family='FantasqueSansMNerdFont'
+style='Italic'
+
